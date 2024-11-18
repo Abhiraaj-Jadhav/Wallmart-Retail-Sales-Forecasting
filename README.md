@@ -6,6 +6,7 @@ This project uses ARIMA to forecast weekly retail sales for a chain of stores. T
 Key highlights:
 
 📈 Exploratory Data Analysis (EDA) to understand relationships and trends.
+
 🔮 ARIMA Modeling for time-series forecasting.
 
 ## 🛠️ Methodology
