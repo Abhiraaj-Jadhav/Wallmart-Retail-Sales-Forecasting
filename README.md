@@ -13,14 +13,16 @@ Key highlights:
 Data Preprocessing:
 
 Handled missing values and outliers.
-Converted date formats and ensure data consistency.
+Converted date formats and ensured data consistency.
+
 Exploratory Data Analysis:
 
 Identified relationships between sales and external factors like unemployment and CPI.
-Visualized seasonal trends and anomalies.
+I visualized seasonal trends and anomalies.
+
 Predictive Modeling:
 
-ARIMA model was trained on historical weekly sales.
+The ARIMA model was trained on weekly historical sales.
 Forecasted sales for the next 12 weeks.
 
 ## 🚀 Results
